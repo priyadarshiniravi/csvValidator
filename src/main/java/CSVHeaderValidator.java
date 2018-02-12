@@ -1,3 +1,6 @@
+import Exceptions.EmptyHeaderException;
+import Exceptions.InvalidHeaderMissingArgument;
+
 import java.util.List;
 import java.util.stream.Collectors;
 

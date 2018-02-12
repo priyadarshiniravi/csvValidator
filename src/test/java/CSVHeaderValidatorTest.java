@@ -1,3 +1,5 @@
+import Exceptions.EmptyHeaderException;
+import Exceptions.InvalidHeaderMissingArgument;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

@@ -5,3 +5,6 @@
 
 # IntelliJ
 out/
+
+#Gradle
+.gradle
